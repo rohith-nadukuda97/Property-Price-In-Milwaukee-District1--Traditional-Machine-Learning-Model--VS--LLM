@@ -39,11 +39,4 @@ This project seeks to validate the **effectiveness of LLMs** against established
 
 ---
 
-### 💡 Next Steps  
-- Further refine data preprocessing techniques.  
-- Explore additional datasets for more comprehensive comparisons.  
-- Investigate hybrid modeling approaches combining LLMs and traditional machine learning.  
-
----
-
 
